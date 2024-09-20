@@ -1,10 +1,10 @@
 # Quiz Kriptografi
 
-Muhammad Rifqy Nirwandi
+**Muhammad Rifqy Nirwandi**
 
-4611422088
+**4611422088**
 
-Kriptografi
+**Kriptografi**
 
 ## Cara Menjalankan Program
 
@@ -25,7 +25,7 @@ Kriptografi
 3. **Menjalankan Program**:
    - Jalankan program dengan perintah berikut:
      ```bash
-     python cipher_tool.py
+     python main.py
      ```
    - Antarmuka pengguna akan muncul, memungkinkan Anda untuk memasukkan teks dan kunci untuk mengenkripsi atau mendekripsi.
 
